@@ -1,4 +1,3 @@
-layout_spectrum: 0.3543461
 typography_spectrum: 0.1028022
 color:
   saturation: 0.563711
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.3543461
 name: BadPOTUS
 title: Good Things To Learn
+description: from Bad Presidents

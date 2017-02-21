@@ -1,16 +1,44 @@
-typography_spectrum: 0.1028022
+typography_spectrum: 0.966723490066476
 color:
-  saturation: 0.563711
-  lightness: 0.414303
-  brandStrength: 0.3596669
-  rhythmicContrast: 0.8282841
+  saturation: 0.7748973242023794
+  lightness: 0.7638080631229694
+  brandStrength: 0.7413524011805617
+  rhythmicContrast: 0.3648172566394257
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.3543461
+layout_spectrum: 0.7011926805854102
+author:
+  name: Mark Trudinger
+  email: mark@trudinger.com
+  url: 'http://thegrid.ai/badpotus/'
 name: BadPOTUS
-title: Good Things To Learn
-description: from Bad Presidents
+navigation:
+  - name: About
+    id: b1b4f111-56db-424c-81a5-b3da0f7f37d1
+    type: content
+  - name: Clinton
+    id: fb940e2a-badf-47fd-b4f2-5df538d6ac92
+    type: content
+  - name: Ford
+    id: ecfcdcd1-935d-4844-98d9-63944a6df25d
+    type: content
+  - name: LBJ
+    id: 544df794-e8ea-4fb2-ac3d-44e57e63c7dd
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cd9a4d1-d031-497c-b353-03f84f4ba21b.ico
+title: Bad POTUS
+content: []
+description: ''
+purpose:
+  - type: internal
+    label: About
+    item: b1b4f111-56db-424c-81a5-b3da0f7f37d1
+  - type: contact
+    url: 'mailto:badpotus@trudinger.com'
+    label: Hello
+github: true

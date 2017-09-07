@@ -17,9 +17,6 @@ author:
   url: 'http://thegrid.ai/badpotus/'
 name: BadPOTUS
 navigation:
-  - name: Ford
-    id: ecfcdcd1-935d-4844-98d9-63944a6df25d
-    type: content
   - name: LBJ
     id: 544df794-e8ea-4fb2-ac3d-44e57e63c7dd
     type: content

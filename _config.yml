@@ -10,12 +10,17 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+github: true
 layout_spectrum: 0.7011926805854102
 author:
   name: Mark Trudinger
   email: mark@trudinger.com
   url: 'http://thegrid.ai/badpotus/'
 name: BadPOTUS
+navigation:
+  - name: Ford
+    id: ecfcdcd1-935d-4844-98d9-63944a6df25d
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cd9a4d1-d031-497c-b353-03f84f4ba21b.ico
 title: Bad POTUS
@@ -28,4 +33,3 @@ purpose:
   - type: contact
     url: 'mailto:badpotus@trudinger.com'
     label: Hello
-github: true

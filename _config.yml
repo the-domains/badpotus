@@ -17,9 +17,6 @@ author:
   url: 'http://thegrid.ai/badpotus/'
 name: BadPOTUS
 navigation:
-  - name: About
-    id: b1b4f111-56db-424c-81a5-b3da0f7f37d1
-    type: content
   - name: Clinton
     id: fb940e2a-badf-47fd-b4f2-5df538d6ac92
     type: content

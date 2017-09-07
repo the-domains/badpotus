@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-09-07T22:10:54.011Z'
+datePublished: '2017-09-07T22:11:11.222Z'
 sourcePath: _posts/2016-10-11-gerald-ford.md
 inFeed: true
 hasPage: true
 author:
   - name: Joni Mitchell
 via: {}
-dateModified: '2017-09-07T22:10:53.382Z'
+dateModified: '2017-09-07T22:11:09.784Z'
 title: ''
 publisher: {}
 description: >-

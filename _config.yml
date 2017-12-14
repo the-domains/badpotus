@@ -18,9 +18,6 @@ author:
   url: 'http://thegrid.ai/badpotus/'
 name: BadPOTUS
 navigation:
-  - name: Nixon
-    id: ecfcdcd1-935d-4844-98d9-63944a6df25d
-    type: content
   - name: Trump
     id: f1b101d4-82a9-4aba-a870-abcd04162e5c
     type: content

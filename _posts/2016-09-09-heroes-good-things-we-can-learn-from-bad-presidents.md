@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-12-14T22:25:36.907Z'
+datePublished: '2017-12-14T23:05:40.473Z'
 sourcePath: _posts/2016-09-09-heroes-good-things-we-can-learn-from-bad-presidents.md
 inFeed: true
 hasPage: true
@@ -20,7 +20,7 @@ author:
     url: 'https://medium.com/@trudinger'
     avatar: {}
 via: {}
-dateModified: '2017-12-14T22:25:35.995Z'
+dateModified: '2017-12-14T23:05:39.775Z'
 title: What about the other Presidents?
 app_links:
   - type: android

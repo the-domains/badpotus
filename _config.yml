@@ -1,4 +1,3 @@
-layout_spectrum: 0.8381541835201332
 typography_spectrum: 0.05351552122115794
 color:
   saturation: 0.7786293308165773
@@ -12,11 +11,16 @@ color:
     - '#3A6EA5'
     - '#004E98'
 github: true
+layout_spectrum: 0.8381541835201332
 author:
   name: Mark Trudinger
   email: mark@trudinger.com
   url: 'http://thegrid.ai/badpotus/'
 name: BadPOTUS
+navigation:
+  - name: One
+    id: 544df794-e8ea-4fb2-ac3d-44e57e63c7dd
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cd9a4d1-d031-497c-b353-03f84f4ba21b.ico
 title: Bad President?

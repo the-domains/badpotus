@@ -1,9 +1,10 @@
-typography_spectrum: 0.966723490066476
+layout_spectrum: 0.8381541835201332
+typography_spectrum: 0.05351552122115794
 color:
-  saturation: 0.7748973242023794
-  lightness: 0.7638080631229694
-  brandStrength: 0.7413524011805617
-  rhythmicContrast: 0.3648172566394257
+  saturation: 0.7786293308165773
+  lightness: 0.7618135862595559
+  brandStrength: 0.7431918481079917
+  rhythmicContrast: 0.3640038918389358
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
@@ -11,7 +12,6 @@ color:
     - '#3A6EA5'
     - '#004E98'
 github: true
-layout_spectrum: 0.7011926805854102
 author:
   name: Mark Trudinger
   email: mark@trudinger.com

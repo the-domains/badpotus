@@ -24,6 +24,9 @@ navigation:
   - name: Two
     id: b1b4f111-56db-424c-81a5-b3da0f7f37d1
     type: content
+  - name: Three
+    id: d196782b-968b-46d2-ad09-fe2c9f0163b4
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cd9a4d1-d031-497c-b353-03f84f4ba21b.ico
 title: Bad President?

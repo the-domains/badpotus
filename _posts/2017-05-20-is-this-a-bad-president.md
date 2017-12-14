@@ -1,9 +1,9 @@
 ---
-datePublished: '2017-12-14T22:31:59.230Z'
+datePublished: '2017-12-14T22:59:50.834Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-12-14T22:31:58.641Z'
+dateModified: '2017-12-14T22:59:50.216Z'
 title: Is this a Bad President?
 publisher: {}
 description: >-

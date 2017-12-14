@@ -24,7 +24,7 @@ content: []
 description: ''
 purpose:
   - type: internal
-    label: About
+    label: Now
     item: b1b4f111-56db-424c-81a5-b3da0f7f37d1
   - type: contact
     url: 'mailto:badpotus@trudinger.com'

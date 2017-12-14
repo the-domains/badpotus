@@ -17,10 +17,6 @@ author:
   email: mark@trudinger.com
   url: 'http://thegrid.ai/badpotus/'
 name: BadPOTUS
-navigation:
-  - name: LBJ
-    id: 544df794-e8ea-4fb2-ac3d-44e57e63c7dd
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cd9a4d1-d031-497c-b353-03f84f4ba21b.ico
 title: Bad POTUS
